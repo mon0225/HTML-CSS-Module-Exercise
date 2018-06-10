@@ -1,0 +1,171 @@
+body{
+  margin: 0;
+  font-family: "Open Sans","OpenSans",sans-serif;
+  font-size: 16px;
+  line-height: 1.35;
+}
+header{
+font-color: White;
+Button-color: rgb(240, 146, 51);
+Background-color: rgb(32, 101, 136);
+Search-Bar-Background: rgb(31, 82, 111);
+}
+.header-bar{
+  float: left;
+  display: inline block;
+  padding: 0;
+  margin: 0 400px 10px 10px;
+  height: 10%;
+}
+.btn{
+  background-color: orange;
+  margin-color: orange;
+  color: white;
+}
+.header-bar-service{
+  text-align: center;
+}
+nav{
+   background-color: #C12127;
+  color: rgba(255,255,255,0.8);
+  padding-top: 15px;
+  height: 50px; 
+}
+nav a {
+  color: rgba(255,255,255,0.8);
+  text-decoration: none;
+}
+
+.nav-bar-ul{
+  color: rgba(255,255,255,0.8);
+  text-decoration: none;
+  display: inline-block;
+   float: right;
+  padding: 50;
+  margin: 0 100px 0 0;
+}
+
+.nav-bar-ul li{
+ display: inline-block;
+  margin: 0 10px;
+}
+.SignUpOrgs{
+color: white;
+Background-color: rgb(39, 53, 71);
+Button-color: rgb(203, 56, 55);
+  padding: 0px;
+  marginright: 200px;
+  float: right;
+  width:936px;
+  height:315px;
+  text-align:right;
+  
+}
+.btnSign{
+  background-color: red;
+  color: white;
+  text-decoration: none;
+ background-size: cover;
+}
+.texto-encima{
+    position: absolute;
+    top: 780px;
+    left: 80px;
+  color: white;
+}
+.centrado{
+    position: absolute;
+    top: 50%;
+    left: 90%;
+  transform: translate(-50%, -50%);
+}
+.options{
+  text-align: center;
+}
+.optionslist{
+  Font-color-header: rgb(83, 88, 98);
+  Font-color: Secondary rgb(135, 145, 156);
+  Font-color-links: rgb(208, 74, 73);
+  Background-color: white;
+  text-align: left;
+}
+.left-bar{
+  position: relative;
+  left: 8em;
+  text align: justify;
+   float: left;
+  height: 150px;
+  padding-top: 10px;
+  margin: 0 1%;
+   Border: 2px solid purple;
+  Border Radius: 20px;
+  Box Sizing: border-box;
+  Box Shadow: 2px 2px 5px 0 #eee;
+  Margin: 40px 10px 0 0;
+  Padding: 20px on all sides;
+Width: 25%;
+  height: 20%;
+}
+.left-bar a{
+  color: red;
+  text-decoration: none;
+}
+.left-bar h3{
+  color: black;
+  text-align: center;
+}
+.left-bar p{
+  color: black;
+  text-align: center;
+}
+.main-content{
+  position: relative;
+  left: 8em;
+  text align: justify;
+  float: left;
+  height: 100px;
+  padding-top: 10px;
+  margin: 0 1%;
+   Border: 2px solid purple;
+  Border Radius: 20px;
+  Box Sizing: border-box;
+  Box Shadow: 2px 2px 5px 0 #eee;
+  Margin: 40px 10px 0 0;
+  Padding: 20px on all sides;
+Width: 25%;
+  height: 20%;
+}
+.main-content h3{
+  color: black;
+  text-align: center;
+}
+.main-content p{
+  color: black;
+  text-align: center;
+}
+.right-bar{
+  position: relative;
+  left: 8em;
+  position: relative; 
+  float: left;
+  height: 100px;
+  padding-top: 10px;
+  margin: 0 1%;
+   Border: 2px solid purple;
+  Border Radius: 20px;
+  Box Sizing: border-box;
+  Box Shadow: 2px 2px 5px 0 #eee;
+  Margin: 40px 0 0 0;
+  Padding: 20px on all sides;
+Width: 25%;
+  height: 20%;
+}
+.right-bar h3{
+  color: black;
+  font-weight?: bold;
+  text-align: center;
+}
+.right-bar p{
+  color: black;
+  text-align: center;
+}
